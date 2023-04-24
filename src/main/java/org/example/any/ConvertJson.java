@@ -3,10 +3,11 @@ package org.example.any;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
+import java.io.IOException;
 import java.util.LinkedList;
 
 public class ConvertJson {
-    public static void main(String[] args) throws JsonProcessingException {
+    public static void main(String[] args) throws IOException {
         String jstr = ""
         + "["
                 + "{'a': 'a1', 'b': 123, 'c':123.456, 'd':true, 'ts':['a','b','c'], 'ti':[11,22,33]}"
