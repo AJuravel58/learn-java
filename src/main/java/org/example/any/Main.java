@@ -8,6 +8,6 @@ public class Main {
         System.out.println("ca.a = " + ca.a);
         System.out.println("cb.a = " + cb.a + " cb.b = " + cb.b);
         System.out.println("cc.a = " + cc.a + " cc.b = " + cc.b + " cc.c = " + cc.c);
-        System.out.println("===============================");
+        System.out.println("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
     }
 }
